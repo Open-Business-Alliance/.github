@@ -1,8 +1,8 @@
 # The Open Business Alliance
 
-## About Us
+<img style="margin: 0; margin-left: auto; margin-right: auto; height: 100px; width: 100%; align: center;" src="images/logo.svg" alt="OBA logo" />
 
-<img style="float: right; height: 100;" src="images/logo.svg" alt="OBA logo" />
+## About Us
 
 The Open Business Alliance (OBA) is an organization dedicated to supporting egalitarian, ethical, open business practices that lead to improving the enjoyment of life for everyone.
 
