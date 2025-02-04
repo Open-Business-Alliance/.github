@@ -1,5 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.37.4/schema/markdownlint-config-schema.json",
 	"no-hard-tabs": false,
-	"line-length": false
+	"line-length": false,
+	"no-inline-html": false
 }

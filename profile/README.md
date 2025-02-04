@@ -2,6 +2,8 @@
 
 ## About Us
 
+<img style="float: right; height: 100;" src="images/logo.svg" alt="OBA logo" />
+
 The Open Business Alliance (OBA) is an organization dedicated to supporting egalitarian, ethical, open business practices that lead to improving the enjoyment of life for everyone.
 
 ## Mission
@@ -15,6 +17,10 @@ We, the Open Business Alliance, have come together to enable associations of any
 3. Every member of our organization must take responsibility and shall be accountable for their decisions, actions, and the consequences.
 4. All actions and communications both internal and external to our organization shall be transparent.
 5. We shall comply with applicable laws and regulations without compromising our core values.
+
+## Policies and Procedures
+
+We are the authors of the [Open Business Policy](https://github.com/Open-Business-Alliance/open-business-policy) and follow it ourselves.
 
 ## Appendices
 
